@@ -26,11 +26,11 @@ An interactive **Streamlit-based data analytics dashboard** that allows users to
   * Histogram
   * Scatter Plot
   * Box Plot
-* 🔥 Generate correlation heatmaps
-* 📋 Analyze categorical columns
-* 📥 Download cleaned dataset as CSV
+*  Generate correlation heatmaps
+*  Analyze categorical columns
+*  Download cleaned dataset as CSV
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 * **Python**
 * **Streamlit**
@@ -38,7 +38,7 @@ An interactive **Streamlit-based data analytics dashboard** that allows users to
 * **Matplotlib**
 * **Seaborn**
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 smart-dashboard-data-analytics/
@@ -116,7 +116,7 @@ Possible future improvements include:
 * Machine learning integration
 * Deployment as a public web application
 
-##  Author
+#  Author
 
 **Deepanshu**
 
